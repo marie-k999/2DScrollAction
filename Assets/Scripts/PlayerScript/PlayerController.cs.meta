@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d446c1ad282a06943afbe0fecd3e5d41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - groundObject: {instanceID: 0}
+  - soundObject: {instanceID: 0}
+  - uIObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

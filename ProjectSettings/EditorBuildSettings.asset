@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 3c94a424e13ba9a489bf322f8adde9e3
+  - enabled: 1
+    path: Assets/Scenes/Tutrial.unity
+    guid: 5efe7d313b1547c40a9e79fd930d0e01
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Endings/Gameover.unity
+    guid: c28a8fbbec5db2e46a725f47f9d0c96a
+  - enabled: 1
+    path: Assets/Scenes/Movies/HumanEndMovie.unity
+    guid: c44d163a9b237804fa0bc232339caac4
+  - enabled: 1
+    path: Assets/Scenes/Endings/HumanEnding.unity
+    guid: ba7d61bb97d3a7d42af3bd608c0bde2f
+  - enabled: 1
+    path: Assets/Scenes/Movies/AnimalEndMovie.unity
+    guid: 9d8bbf99a142fe44982526321f7f98c4
+  - enabled: 1
+    path: Assets/Scenes/Endings/AnimalEnding.unity
+    guid: baf0d45a4ef3719418cf1e1a844976a5
+  - enabled: 1
+    path: Assets/Scenes/Movies/Movie.unity
+    guid: f82c0d0bfa6ee9a468c2ee970eaff519
+  - enabled: 1
+    path: Assets/Scenes/Endings/GoodEnding.unity
+    guid: 9f6c350dae6c7994fb77d7354f717c0c
+  m_configObjects: {}

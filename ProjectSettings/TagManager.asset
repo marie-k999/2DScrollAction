@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Cherry
+  - Gem
+  - Enemy
+  - Animal
+  - Human
+  - FootAttack
+  - GameOverArea
+  - Wall
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Stage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 1793860087
+    locked: 0
+  - name: Middle
+    uniqueID: 366518939
+    locked: 0
+  - name: Object
+    uniqueID: 108077401
+    locked: 0
+  - name: Ground
+    uniqueID: 2764062821
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
